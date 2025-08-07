@@ -8,7 +8,5 @@
   - > the languages that i am trying to learn are: java, c# 🎮
   
   
-  
-  
-  ## THAT IS IT UwU
+
   
